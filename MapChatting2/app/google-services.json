@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "174248909190",
+    "firebase_url": "https://mapchatting2.firebaseio.com",
+    "project_id": "mapchatting2",
+    "storage_bucket": "mapchatting2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174248909190:android:ab46e98be4aa2043",
+        "android_client_info": {
+          "package_name": "com.example.mapchatting2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174248909190-fehvldhbk0o8mdeemkd4jn8h93c9d4ih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mapchatting2",
+            "certificate_hash": "217eaf003867a0cadf09637f3027968ea1346776"
+          }
+        },
+        {
+          "client_id": "174248909190-qvs0udnaegihlbm5c5sj05i3hooqm0lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM8CdIebJ4BaEzApnpy4olRM5yGmMJazA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174248909190-qvs0udnaegihlbm5c5sj05i3hooqm0lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
