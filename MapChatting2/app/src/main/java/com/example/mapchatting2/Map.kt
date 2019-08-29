@@ -163,16 +163,6 @@ class Map : AppCompatActivity(), OnMapReadyCallback {
         fusedLocationProviderClient!!.removeLocationUpdates(mLocationCallback)
     }
 
-    override fun onStop() {
-        super.onStop()
-        stoplocationUpdates()
-    }
-
-    override fun onResume() {
-        super.onResume()
-        startLocationUpdates()
-    }
-
     fun onLocationChanged(location: Location) {
         mlastLocation = location
         var ubicacion : LatLng
